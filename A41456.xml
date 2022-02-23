@@ -1,0 +1,399 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at Bishops-Stratford, August 29, MDCLXXVII, before the Right Reverend Father in God, Henry, Lord Bishop of London, &amp;c at his Lordships primary visitation / by Jo. Goodman ...</title>
+            <author>Goodman, John, 1625 or 6-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41456</idno>
+            <idno type="STC">Wing G1124</idno>
+            <idno type="STC">ESTC R48</idno>
+            <idno type="EEBO-CITATION">12181203</idno>
+            <idno type="OCLC">ocm 12181203</idno>
+            <idno type="VID">55651</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41456)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55651)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 762:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at Bishops-Stratford, August 29, MDCLXXVII, before the Right Reverend Father in God, Henry, Lord Bishop of London, &amp;c at his Lordships primary visitation / by Jo. Goodman ...</title>
+                  <author>Goodman, John, 1625 or 6-1690.</author>
+                  <author>Goodman, Godfrey, 1583-1656.</author>
+               </titleStmt>
+               <extent>[6], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Wing attributes to Godfrey Goodman.</note>
+                  <note>Reproduction of original in Eton College, Eton, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XVI, 18 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55651:1"/>
+            <pb facs="tcp:55651:1"/>
+            <p>A SERMON PREACHED at <hi>BISHOPS-STORTFORD, Auguſt</hi> 29. MDCLXXVII.</p>
+            <p>BEFORE The Right Reverend Father in God, HENRY, Lord Biſhop of <hi>LONDON,</hi> &amp;c. At his Lordſhips primary Viſitation.</p>
+            <p>By JO. GOODMAN, D. D. Rector of <hi>Hadham.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Royſton,</hi> Bookſeller to His moſt Sacred Majeſty, at the Angel in <hi>Amen-Corner,</hi> 1678.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:55651:2"/>
+            <pb facs="tcp:55651:2"/>
+            <head>
+               <hi>TO The Right Reverend Father in God, HENRY, Lord Biſhop of</hi> LONDON, <hi>One of the Lords of His MAJESTIE'S moſt Honourable Privy Council.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>WHen I compoſed the following Sermon, at your Lordſhip's command, I propounded no other thing to my ſelf, but the doing ſervice to the Souls of men, by inviting them into the Com<g ref="char:EOLhyphen"/>munion of the Church of <hi>Chriſt;</hi> and the animating and encouraging my Brethren of the Clergy, that labour in the ſame good and holy Work. Than which two things I knew nothing more ſeaſonable and neceſſary for the Age we live in, or more compliant with your Lordſhip's Deſign in your Viſitation. And therefore though I had a juſt Reverence of the Auditory, and a due ſenſe of my own Imperfections; yet the aforeſaid Conſideration, together with that of your Lordſhip's Candour, would not ſuffer
+<pb facs="tcp:55651:3"/>
+me much to doubt, but that the Sermon would be ap<g ref="char:EOLhyphen"/>proved by your Lordſhip, and accepted by all good and wiſe men that heard it.</p>
+            <p>For I called to mind, that as the <hi>Greeks</hi> ſay of their Goddeſs <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Dea, Bona valetudo, placatur quâcunque re quis velit ei litare:</hi> ſo, however weak and ſickly Minds (like cachectick Bodies) may be nice, phantaſtick and captious; yet thoſe that are ſound and ſtrong are benign and generous; and with ſuch, every thing that is ſober, and well-intended, is well taken.</p>
+            <p>Nevertheleſs I muſt acknowledge, that when after<g ref="char:EOLhyphen"/>wards your Lordſhip declared your pleaſure that I ſhould print my Sermon, methought the caſe was al<g ref="char:EOLhyphen"/>tered: for being ſenſible before, how difficult a matter it was to contrive ſo copious a Subject (as I had be<g ref="char:EOLhyphen"/>fore me) within the limits of an hour's Diſcourſe, I was eaſily aware how much harder it would be (in ſo narrow a compaſs) to ſatisfie all the ſcruples and cu<g ref="char:EOLhyphen"/>rioſities of thoſe that ſhould not onely have a tranſient glimpſe, but a leiſurely peruſal. And beſides, I was not ignorant how different the condition of a Sermon was, when preſented in dead letters, from it ſelf, when inlivened by the voice and paſſion of a very mean Oratour.</p>
+            <p>
+               <pb facs="tcp:55651:3"/>
+But after all I conſidered it was my duty, not to diſpute, but to obey, and that your Lordſhip's Judg<g ref="char:EOLhyphen"/>ment was ſufficient for my ſecurity. And therefore (all excuſes ſet aſide) I here humbly preſent to your hand, what before I preached in your hearing.</p>
+            <p>And now, my Lord, having this opportunity, I crave leave, not onely to make acknowledgment of my own peculiar Obligations to your Lordſhip, (which I doe with a juſt ſenſe of Duty and Gratitude,) but to re<g ref="char:EOLhyphen"/>port the Apprehenſions of your Clergy in theſe parts of your Dioceſe, and the great Contentment they take under your Lordſhip's Government. They are greatly comforted by your Zeal for the Proteſtant Religiom; incouraged by your Lordſhip's vigilant Care of their Intereſts and Concerns; directed in their Studies, Mi<g ref="char:EOLhyphen"/>niſtry and Converſation, by your prudent Counſels; ani<g ref="char:EOLhyphen"/>mated by ſo great an Example; and eſpecially obliged by the Benignity of your Preſence and Condeſcenſion to them at your Viſitation. All which they cannot for<g ref="char:EOLhyphen"/>bear to expreſs ſuch a ſenſe of, that they look upon it as a great Bleſſing of Almighty God, in committing this part of his Church to your Lordſhip's Care and Government.</p>
+            <p>For, my Lord, we cannot doubt but Piety and De<g ref="char:EOLhyphen"/>votion will commend it ſelf to all that are ſerious:
+<pb facs="tcp:55651:4"/>
+that Paternal Mildneſs and Clemency will work upon the ingenuous: that well-tempered Severity is the way to reclaim the vicious: and that Charity and Ge<g ref="char:EOLhyphen"/>neroſity will oblige all humane Nature. And therefore, where there is ſuch a conjunction of real and powerfull Cauſes, we are able eaſily to calculate happy and ſignal Effects; as, that the Church ſhall recover its native and ancient Glory, and the Genius of this great Peo<g ref="char:EOLhyphen"/>ple be marvellouſly improved. Which Succeſſes that it will pleaſe the Great and True Oecumenical Biſhop to crown your Lordſhip's Endeavours with, is the ar<g ref="char:EOLhyphen"/>dent deſire of,</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>Your Lordſhips<lb/>
+moſt dutifull<lb/>
+and obedient Servant,<lb/>
+                  <hi>J. Goodman.</hi>
+               </signed>
+               <dateline>Hadham, <date>Sept. <hi>7. 1677.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:55651:4"/>
+            <head>A SERMON PREACHED At <hi>Biſhops-Stortford, Auguſt</hi> 29. 1677. BEFORE The Right Reverend Father in GOD, HENRY, Lord Biſhop of <hi>LONDON.</hi>
+            </head>
+            <epigraph>
+               <bibl>
+                  <hi>S.</hi> MATTHEW XVI. 18.</bibl>
+               <q>
+                  <hi>Thou art Peter, and upon this Rock I will build my Church; and the Gates of Hell ſhall not prevail againſt it.</hi>
+               </q>
+            </epigraph>
+            <p>AMongſt the manifold infirmities of humane Nature, there is ſcarcely any either more Epidemical and common in Experience, or more miſchievous in its Effects and Conſequen<g ref="char:EOLhyphen"/>ces, than that which the <hi>Greeks</hi> very elegantly ex<g ref="char:EOLhyphen"/>preſs
+<pb n="2" facs="tcp:55651:5"/>
+by the name of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and which I know not how more fitly to render, than by call<g ref="char:EOLhyphen"/>ing it <hi>an Humour of running from one Extreme to ano<g ref="char:EOLhyphen"/>ther:</hi> when men apprehending the evil and unrea<g ref="char:EOLhyphen"/>ſonableneſs of ſome Opinion or Practice, are ſo far tranſported with zeal in deteſtation of it, as that, paſſing by the Mean of Truth and Sobriety, they reſt not till they have fixed upon ſomething elſe quite contrary thereto, though it be every whit as bad as that which they ſtudiouſly ſeek to decline. <hi>As if the utmoſt diſtance from what they are confident is falſe, were the onely ſecurity that what they embrace is true.</hi>
+            </p>
+            <p>And perhaps, if we well obſerve, we ſhall find that moſt of thoſe Evils which have deformed Reli<g ref="char:EOLhyphen"/>gion, and troubled the Peace of the Church of God, have entred at this door. For evidence of which, amongſt very many obſervations which I have at hand to this purpoſe, I will ſpecifie theſe two or three, which (I perſwade my ſelf) will neither be unacceptable to this Learned Auditory, nor remote from the buſineſs in hand.</p>
+            <p>The firſt Inſtance ſhall be the riſe of <hi>Arrianiſm:</hi> touching which, it hath been the opinion of ſundry wiſe men, and of the Learned Lord <hi>Bacon</hi> in parti<g ref="char:EOLhyphen"/>cular, that that moſt unhappy Controverſie ſprang at firſt from an Antipathy to the Polytheiſm of the Pagans. Some men, it ſeems, being highly ſenſible
+<pb n="3" facs="tcp:55651:5"/>
+of the intolerable proſtitution of the Divine Maje<g ref="char:EOLhyphen"/>ſty, when the Honours peculiar to him were com<g ref="char:EOLhyphen"/>municated with and ſhared amongſt ſo many petty pretended Deities, out of zeal againſt this evil, out<g ref="char:EOLhyphen"/>ran the mark, and, that they might be ſure to wor<g ref="char:EOLhyphen"/>ſhip but one God, acknowledged but one Perſon; and ſo, whileſt they went about to ſubvert Idolatry, denyed the Trinity.</p>
+            <p>My ſecond Inſtance ſhall be the obſervation of our Learned <hi>Hooker,</hi> to this effect: When ſome <hi>German</hi> Divines had ſtrained their form of Presbyterian Go<g ref="char:EOLhyphen"/>vernment <note place="margin">
+                  <hi>Hooker</hi> in Pref. to <hi>Eccl. Polit.</hi>
+               </note> to a mighty height, had railed in the Communion with ſuch ſtrict Cautions and Conditi<g ref="char:EOLhyphen"/>ons, that (the moſt part of Chriſtians being ſeclu<g ref="char:EOLhyphen"/>ded from it) it became more like a private Maſs than the ſolemn Worſhip of the Church; and, to carry on this deſign the better, had brought in Lay-elders, as a new kind of <hi>Cenſores morum;</hi> up ſtarts <hi>Eraſtus,</hi> and provoked by this Extreme, runs a risk, and falls into another as bad: for not content to diſprove that new form of Diſcipline, and eſpecially to de<g ref="char:EOLhyphen"/>grade that novel Office, he proceeds to the denial of all Church-Cenſure and Eccleſiaſtical Govern<g ref="char:EOLhyphen"/>ment. <hi>As if from ſuch time as the Civil State became Chriſtian, the Rights of the Church were eſcheated to the Prince or State.</hi> And thus, as that Judicious per<g ref="char:EOLhyphen"/>ſon modeſtly expreſſes it, <hi>the Truth was divided be<g ref="char:EOLhyphen"/>tween
+<pb n="4" facs="tcp:55651:6"/>
+the contending parties, but overſeen and outran by both.</hi>
+            </p>
+            <p>But the laſt Inſtance I will now make uſe of comes more home to my preſent buſineſs. When the Church of <hi>Rome,</hi> arrogating to it ſelf an Infalli<g ref="char:EOLhyphen"/>bility, and aſſerting to the Pope an univerſal Paſtor<g ref="char:EOLhyphen"/>ſhip, had under theſe pretences notoriouſly uſurped upon all Chriſtendome; there were not wanting thoſe, who, ſeeing through this cheat, and deſirous to reform all, bent things ſo far towards the other Extreme, that they endangered the breaking of all in pieces.</p>
+            <p>For whereas the <hi>Roman</hi> Church had claimed and exerciſed an exorbitant power of making and impo<g ref="char:EOLhyphen"/>ſing what Articles of Faith ſhe pleaſed; Theſe were ſo far from that, as that they would ſcarcely allow the Church authority to define matters of Order and <hi>Decorum.</hi> Becauſe the Governours in the <hi>Ro<g ref="char:EOLhyphen"/>man</hi> Communion were arrived at too great a height, the Biſhops becoming (like the <hi>Ephori</hi> among the <hi>Spartans)</hi> able to check and controll Sovereign Princes; therefore, to avoid this danger, all ſhall be levelled to a Plebeian Parity. Before the inte<g ref="char:EOLhyphen"/>reſt of the Church was ſo great, as that it drew (un<g ref="char:EOLhyphen"/>der one pretence or other) almoſt all Cauſes from the Civil Tribunals to Eccleſiaſtical cogniſance: but now to prevent this for the future, all Juriſdiction
+<pb n="5" facs="tcp:55651:6"/>
+ſhall be taken from it. In ſhort, the Church was thought to be too rich before, <hi>Religio peperer at Di<g ref="char:EOLhyphen"/>vitias, &amp; filia devoraverat matrem:</hi> now therefore the onely way to revive the Primitive Purity, is to reduce the Primitive Poverty. And ſo upon the whole matter, from an abhorrence of the Incroach<g ref="char:EOLhyphen"/>ments and Exorbitancies of the <hi>Roman</hi> Church, there aroſe a danger whether there ſhould be any Church at all.</p>
+            <p>Now conſidering with my ſelf how to obviate theſe and ſeveral other miſchiefs of like nature, and to doe the beſt ſervice I can to this Solemnity, I have made choice of theſe words of our Saviour for my ſubject, <hi>Thou art Peter, and upon,</hi> &amp;c.</p>
+            <p>Wherein I obſerve theſe three things.</p>
+            <list>
+               <item>1. A Reſolution or Decree of our Saviour, he will <hi>build him a Church.</hi>
+               </item>
+               <item>2. The Foundation of this Structure, <hi>Upon this Rock</hi> will I, <hi>&amp;c.</hi>
+               </item>
+               <item>3. His Prediction of the Succeſs and Duration of this Building, <hi>The Gates of Hell ſhall not prevail againſt it.</hi>
+               </item>
+            </list>
+            <p>I deſign to open theſe three things with the grea<g ref="char:EOLhyphen"/>teſt plainneſs and perſpicuity I can, becauſe of the importance and uſefulneſs of the matter; and yet with as much brevity as is poſſible, for I conſider I ſpeak to wiſe men.</p>
+            <p>
+               <pb n="6" facs="tcp:55651:7"/>
+PART I. Touching the Firſt, (to avoid all impertinence,) that which I conceive our Saviour means when he ſaith he will build him a Church, is no more nor leſs than this, that he will incorporate all thoſe that profeſs his Name and Religion into a Society. And that he will not content himſelf to have Diſciples and Followers dividedly ſtraggling after him, (how numerous ſoever they may be,) but he will have them united into a Body, formed into a regular Society, make up a Divine Polity, having Unity, Order and Government amongſt themſelves. That as there are ſeveral forms of Civil Society of Humane Inſtitution; ſo our Saviour would by his Divine Authority inſtitute a Religious Society by the name of <hi>a Church,</hi> whereof He himſelf would be the Head, and which ſhould be ruled and governed by Laws and Officers peculiar to it ſelf. Or, as in the Old Teſtament the whole Nation of the <hi>Jews</hi> (though diſtinguiſhed otherwiſe by their reſpective Tribes and Families) made up one People and Church of <hi>Iſrael;</hi> ſo ſhould all Nations upon Earth and eve<g ref="char:EOLhyphen"/>ry individual perſon that was a Chriſtian, conſpire and make up together one Chriſtian Church.</p>
+            <p>For the more diſtinct and ſatisfactory apprehen<g ref="char:EOLhyphen"/>ſion whereof, let us conſider, that every regular So<g ref="char:EOLhyphen"/>ciety requires theſe four things; namely, 1. A Bo<g ref="char:EOLhyphen"/>dy, 2. An Head, 3. Union, 4. Order and Govern<g ref="char:EOLhyphen"/>ment:
+<pb n="7" facs="tcp:55651:7"/>
+and all theſe conſpicuouſly concurre to the making up the Church, or ſuch a Society as we have deſcribed.</p>
+            <p n="1">1. For the Body of the Chriſtian Church, that conſiſts of all thoſe who from time to time in all Ages and Countreys are inrolled <hi>in Albo Chriſtiano<g ref="char:EOLhyphen"/>rum,</hi> and have given up their names to <hi>Chriſt,</hi> or are Chriſtians by profeſſion. So the Apoſtle, 1 <hi>Cor.</hi> 12. 27. <hi>Now are ye the Body of Chriſt, and Members in particular;</hi> that is, the whole number of Chriſtians <note place="margin">Vid. <hi>Theo<g ref="char:EOLhyphen"/>phyl.</hi> in loc.</note> makes up the myſtical Body of <hi>Chriſt,</hi> every indivi<g ref="char:EOLhyphen"/>dual perſon being a particular Member thereof. And then he addes, verſ. 28. <hi>God hath ſet ſome in the Church, firſt Apoſtles, ſecondly Prophets,</hi> &amp;c. By which it is evident that he ſpeaks of the whole Church as one: for he ſuppoſes the Apoſtles to be Offi<g ref="char:EOLhyphen"/>cers of the whole Chriſtian Church, which could not be, if every little parcel of Chriſtians convened together made up a Church in the notion the Apo<g ref="char:EOLhyphen"/>ſtle intends; and conſequently therefore the whole number of Chriſtians (as I ſaid) muſt make up the one Church or Body of <hi>Chriſt.</hi>
+            </p>
+            <p>To this purpoſe, thoſe that are curious obſervers of the propriety of phraſe in the <hi>Greek</hi> tongue do note, that at <hi>Athens,</hi> (from whoſe Aſſemblies this name <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> was firſt taken) when onely the Heads or chief Magiſtrates were aſſembled, they
+<pb n="8" facs="tcp:55651:8"/>
+called this diſtinctly <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> when the <hi>Colluvies ex agris</hi> or whole Rabble of People was called together, this they termed <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> was onely uſed when the whole Body of Citizens within the Pale or Liberties of the City were aſ<g ref="char:EOLhyphen"/>ſembled.</p>
+            <p n="2">2. <hi>Chriſt Jeſus</hi> is undoubtedly the Head and Su<g ref="char:EOLhyphen"/>preme of this Body. He is the Founder of this Or<g ref="char:EOLhyphen"/>der, he gave command for the forming this Society, preſcribes Laws and affords protection to it. <hi>Eph.</hi> 5. 23. <hi>He is the Head of the Church, and the Saviour of the Body.</hi> And herein that which Divines call the <hi>Mediatorian Kingdom</hi> of our Saviour properly con<g ref="char:EOLhyphen"/>ſiſts: namely, that not onely in reſpect of his Di<g ref="char:EOLhyphen"/>vine Nature he hath a Sovereignty over the world; but eſpecially that as <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or God incarnate, he is Sovereign of the Church, and hath power of Legiſlation, authority to conſtitute Officers under him, <hi>jus vitae &amp; necis,</hi> hath <hi>all Judgment committed to him,</hi> can ſentence to life or to utter deſtruction. Whether <hi>de facto</hi> he hath appointed any Lieute<g ref="char:EOLhyphen"/>nant or Vicar-general under him over the whole Church, as ſome pretend, will not be neceſſary now to inquire; and beſides, will be ſufficient<g ref="char:EOLhyphen"/>ly clear in the Negative by what I ſhall ſay by and by.</p>
+            <p n="3">3. It is not ſufficient to an orderly Society, that
+<pb n="9" facs="tcp:55651:8"/>
+there be Head and Members, but there muſt be ſome Ligaments, to the end that there may be Union; that is, that all thoſe Members of this So<g ref="char:EOLhyphen"/>ciety, which lie otherwiſe ſcattered through ſo ma<g ref="char:EOLhyphen"/>ny Ages and Countreys, may both become united together, to make up one Body, and alſo joyned to their common Head <hi>Chriſt Jeſus.</hi>
+            </p>
+            <p>Now as in the natural Body the Nerves which perform this office proceed from the Head, ſo it is here; <hi>Chriſt Jeſus</hi> hath delivered an Inſtitution of Religion, the open profeſſion of which is the Si<g ref="char:EOLhyphen"/>new of this Society, the Church: namely, all thoſe that hold and maintain the Doctrine of the Holy Scriptures, and eſpecially of the New Teſtament, are united to the Church as Members, and to <hi>Chriſt</hi> as their ſpiritual Head. For this is the Charter of our Corporation, and contains the Laws of our So<g ref="char:EOLhyphen"/>ciety: he that addes to this, diſtracts and divides the Church; and he that abates or diminiſhes it, incroaches upon the Prerogative of <hi>Chriſt</hi> the Head. The Church of <hi>Chriſt,</hi> and the profeſſion of the Religion of <hi>Chriſt</hi> are of equal extent, and the Holy Scripture is the Standard of both.</p>
+            <p>But as a ſymbolical repreſentation of this Union (we are ſpeaking of,) or rather as a ſtanding federal Rite of this Society, our Lord Chriſt hath alſo ap<g ref="char:EOLhyphen"/>pointed the frequent participation of the holy Sa<g ref="char:EOLhyphen"/>crament,
+<pb n="10" facs="tcp:55651:9"/>
+wherein we ſolemnly recognize him our Head, and our Fellow-Chriſtians as Members of the ſame Body: which therefore is properly called the <hi>Synaxis</hi> or <hi>Communion.</hi> To which purpoſe the Apo<g ref="char:EOLhyphen"/>ſtle, alluſively to the New Teſtament, ſpeaks of the Church of the <hi>Jews,</hi> 1 <hi>Cor.</hi> 10. 2, <hi>&amp;c. they were all baptized unto Moſes in the cloud and in the Sea, and did all eat the ſame ſpiritual meat, and did all drink the ſame ſpiritual drink,</hi> &amp;c. But more clear<g ref="char:EOLhyphen"/>ly and expreſly of the Chriſtian Church, verſ. 17. <hi>For we being many are one Body; for we are all par<g ref="char:EOLhyphen"/>takers of that one bread.</hi> The ſence of which place, and the ſumme of what I have been ſaying, is this, That as by holding and profeſſing the Religion of <hi>Chriſt Jeſus</hi> contained in the Holy Scripture we are united to him, and Members of his Church, mate<g ref="char:EOLhyphen"/>rially; ſo it is our duty that this be ſolemnly and for<g ref="char:EOLhyphen"/>mally executed by thoſe holy Rites of his inſtitu<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="4">4. But in the fourth and laſt place, it is not ſuffi<g ref="char:EOLhyphen"/>cient that there be an Union of the Head and Mem<g ref="char:EOLhyphen"/>bers, but there muſt be Order alſo amongſt the Members themſelves, otherwiſe it would be a Mul<g ref="char:EOLhyphen"/>titude, but not a Church. Wherefore in this Socie<g ref="char:EOLhyphen"/>ty, though, as we have ſaid, all that profeſs and ac<g ref="char:EOLhyphen"/>knowledge the Doctrine of the Scriptures are Mem<g ref="char:EOLhyphen"/>bers, yet ſome of thoſe are of an higher quality, and
+<pb n="11" facs="tcp:55651:9"/>
+more publick uſe and influence, than others, namely ſuch as bear Office in this Society. So ſaith the A<g ref="char:EOLhyphen"/>poſtle, <hi>Eph.</hi> 4. 11. <hi>He gave ſome Apoſtles, ſome Pro<g ref="char:EOLhyphen"/>phets, ſome Evangeliſts, ſome Paſtors and Teachers,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, i. e. <hi>for the orderly knitting of the Saints together</hi> into a Body, and <hi>for the edify<g ref="char:EOLhyphen"/>ing that Body of Chriſt.</hi> Theſe and their Succeſſors are the Governours and Officers of the Church as a Church, or as it is ſuch a peculiar, diſtinct and ſpi<g ref="char:EOLhyphen"/>ritual Society. To theſe the Head of this Society hath promiſed <hi>his preſence to the end of the world;</hi> to theſe he hath <hi>given the keys of the Kingdom of Hea<g ref="char:EOLhyphen"/>ven,</hi> ſaying, <hi>Whatſoever ye ſhall bind on earth ſhall be bound in Heaven,</hi> &amp;c. and, <hi>He that receiveth you receiveth me; and he that refuſeth you refuſeth him that ſent me.</hi> Theſe, as I ſaid, are the Gover<g ref="char:EOLhyphen"/>nours of the Church as a Church. But becauſe (as it was well obſerved by <hi>Optatus Milevitanus) Res<g ref="char:EOLhyphen"/>publica non eſt in Eccleſia, ſed Eccleſia in Republica;</hi> and it was not the deſign of our Saviour, in conſtitu<g ref="char:EOLhyphen"/>ting this Society of a Church, to revoke or abro<g ref="char:EOLhyphen"/>gate the Powers and Authority of the Civil State: therefore Kings and Princes (though as ſuch they are not properly Officers of the Church in its pecu<g ref="char:EOLhyphen"/>liar conſideration, yet) have and retain their anci<g ref="char:EOLhyphen"/>ent right of Legiſlation, and preſcribing to the ex<g ref="char:EOLhyphen"/>ternal management of this Society. In which re<g ref="char:EOLhyphen"/>ſpect
+<pb n="12" facs="tcp:55651:10"/>
+it was ſaid by the great and famous <hi>Conſtantine,</hi> that he was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, a Civil Biſhop, or, as we commonly ſpeak, ſupreme Governour or Moderator of the Church.</p>
+            <p>And now, having ſhewed what our Saviour meant, when he ſaid he would build him a Church, it will neither be difficult nor unuſefull to ſhew the Reaſons of this Inſtitution, <hi>i. e.</hi> Why our Saviour would not leave every ſingle Believer upon his own ſcore, but would have them aſſociated and incor<g ref="char:EOLhyphen"/>porated as aforeſaid. The great uſefulneſs of this Inſtitution might eaſily be made appear in very many Inſtances: but I will mention but theſe three.</p>
+            <p n="1">1. It pleaſed our Saviour <hi>Chriſt</hi> to require ſuch a conjunction and combination of Chriſtians, to the intent that by that means they might be the better able to hold up his Truth and Religion in the world. For if this had been left to the care of par<g ref="char:EOLhyphen"/>ticular Chriſtians ſingly and ſeparately, ſuch is the diverſity of their Capacities and apprehenſions, ſo different have been their Educations, are their In<g ref="char:EOLhyphen"/>tereſts, and would be their Expreſſions, and ſo great would be the difficulty of holding intelligence and correſpondence with each other, that it is not ima<g ref="char:EOLhyphen"/>ginable how the mind of <hi>Chriſt</hi> ſhould have been uniformly and intirely repreſented to all thoſe that
+<pb n="13" facs="tcp:55651:10"/>
+would have been concerned in it: therefore in re<g ref="char:EOLhyphen"/>gard this ſumme was too great to be laid out upon private ſecurity, it pleaſed him to deliver this great <hi>Depoſitum</hi> to the Society of the Church.</p>
+            <p>This is that which I take to be meant in that fa<g ref="char:EOLhyphen"/>mous paſſage of the Apoſtle, 1 <hi>Tim.</hi> 3. 15. where the Church is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the pillar and ground of Truth.</hi> I know well what perverſe uſe they of the Church of <hi>Rome</hi> make of this Text, and what pitifull ſhifts ſome on the other ſide make to avoid that danger; and therefore I thought it worth my labour, in a former Diſcourſe of this nature, and at a like Solemnity, to vindicate the Text from the hands of thoſe that abuſe it, and the world by it. But at preſent it is ſufficient to intimate, that though it be evidently true, that the truth of Chriſtianity neither depends upon the Au<g ref="char:EOLhyphen"/>thority, nor needs the Warranty of men, yet was the Society of the Church a wiſe Expedient of our Saviour, for the holding forth and holding up his Religion in the world.</p>
+            <p>Nor let any one ſuſpect that this will give any countenance to the unwritten Traditions of the Church of <hi>Rome,</hi> or evacuate the juſt Dignity and Authority of the Holy Scriptures: for it is and muſt be acknowledged, that the written Word is the im<g ref="char:EOLhyphen"/>mediate Conſervatory of the Truth of the Goſpel;
+<pb n="14" facs="tcp:55651:11"/>
+yet the Society of the Church doth the ſame thing remotely and generally, which the other doth par<g ref="char:EOLhyphen"/>ticularly and immediately: that is to ſay, this holds up the Holy Scripture, preſerves and aſſures that as the Summe and Code of our Religion; as on the other hand the Holy Scripture rules to us the parti<g ref="char:EOLhyphen"/>cular Doctrines and Laws thereof. To which ſence both S. <hi>Auſtin</hi> and S. <hi>Ierom</hi> agree, when they affirm, that as the <hi>Jewiſh</hi> Church was <hi>Columna Nubis,</hi> the Pillar of a Cloud, or was incorporated by God to hold up that Ceremonial form of Religion in the Old Teſtament; ſo the Society of the Chriſtian Church is <hi>Columna Lucis,</hi> or was inſtituted to hold up that Truth whereof the former was a ſhadow, namely the Doctrine of the Goſpel, in the times of the New Teſtament. And Saint <hi>Auſtin</hi> more parti<g ref="char:EOLhyphen"/>cularly expreſſes himſelf in his 42. Epiſtle, <hi>Radix Chriſtianae Societatis, per Sedes Apoſtolorum &amp; Suc<g ref="char:EOLhyphen"/>ceſſiones Epiſcoporum, certâ per orbem propagatione diffun<g ref="char:EOLhyphen"/>ditur:</hi> i. e. Chriſtian Religion is preſerved and pro<g ref="char:EOLhyphen"/>pagated by the advantage of eſtabliſhed Order and ſucceſſive Government of the Church.</p>
+            <p n="2">2. <hi>Chriſt Jeſus</hi> would have a Church, and his Diſciples imbodied and formed into a Society, that, by means of ſuch conjunction and relation, they might be more uſefull to one another, by in<g ref="char:EOLhyphen"/>ſtruction, admonition, counſel, reproof, and exam<g ref="char:EOLhyphen"/>ple;
+<pb n="15" facs="tcp:55651:11"/>
+and ſo not onely hold up the Doctrine joynt<g ref="char:EOLhyphen"/>ly, but hold one another mutually to the practice of Chriſtianity, as having a common care and concern for the good of each other, for the ſake of the whole.</p>
+            <p>To which purpoſe it is obſerved by the generali<g ref="char:EOLhyphen"/>y of Learned men, that <hi>Gen.</hi> 4. 26. and 6. 1. in the Infancy of the World, there was a diſtinction be<g ref="char:EOLhyphen"/>tween the Sons of God and the Sons of men: by the latter of which they underſtand that profane part of mankind that caſt off all care of God and Religion; but by the former, ſuch as retained a ſenſe of God and care of his Worſhip; and that theſe formed themſelves into a Body, and became a diſtinct So<g ref="char:EOLhyphen"/>ciety, for the better practice and proſecution of that great affair of Religion.</p>
+            <p>But the influence which this Proviſion hath upon the practice of Religion is ſo notoriouſly evident, that the Apoſtle, <hi>Heb.</hi> 10. 23, <hi>&amp;c.</hi> diſcourſes after this manner to thoſe <hi>Jewiſh</hi> Chriſtians that ſeemed to ſtagger in their Devotion; <hi>Let us hold faſt the pro<g ref="char:EOLhyphen"/>feſſion of our Faith without wavering: Let us conſider one another, to provoke unto love and to good works: Not forſaking the aſſembling of our ſelves together, as the manner of ſome is. For,</hi> ſaith he, <hi>if we ſin wilfully after we have received the knowledge of the truth,</hi> &amp;c. The plain ſence of which remarkable paſſage is
+<pb n="16" facs="tcp:55651:12"/>
+this, that keeping Church-Society is the way to keep upright in our Profeſſion, and warm in our practice; and the forſaking of that, the ready way to Apoſtaſie: and no other tolerable ſence can be made of the Diſcourſe of the Apoſtle but this. To which I think it not amiſs to adde a worthy Obſer<g ref="char:EOLhyphen"/>vation of that Learned man Mr. <hi>H. Thorndyke.</hi> He <note place="margin">
+                  <hi>Thorndyke</hi> Service of God in Religious Aſſem<g ref="char:EOLhyphen"/>blies.</note> inquires, <q>What ſhould be the reaſon, that the People of the <hi>Jews</hi> before their Captivity were upon all occaſions prone to lapſe into Idolatry, whenas after their Return from that Captivity they never ſeemed inclinable that way; and yet notwithſtanding, before the Captivity they were never deſtitute of the extraordinary Admonitions of Prophets, ſent from God on purpoſe to warn them of that ſin and danger, and after the Captivi<g ref="char:EOLhyphen"/>ty they were deprived of this ſingular advantage:</q> And at laſt gives this ingenious and probable ac<g ref="char:EOLhyphen"/>count; <hi>viz.</hi> 
+               <q>Before the Captivity, though they had the frequent Admonitions of the Prophets, as aforeſaid; yet they had few or no Syna<g ref="char:EOLhyphen"/>gogues, inſomuch as we never hear of any Sy<g ref="char:EOLhyphen"/>nagogue-worſhip during all that time: but af<g ref="char:EOLhyphen"/>ter the Captivity Synagogues were very nume<g ref="char:EOLhyphen"/>rous, and by means of the frequency of thoſe Aſſemblies he thinks it might come to paſs, that they were kept from an evil they were ſo
+<pb n="17" facs="tcp:55651:12"/>
+prone to, that Prophecy it ſelf could not cure them of it.</q>
+            </p>
+            <p n="3">3. Church-Order was appointed to fit and train men up for the Kingdom of Heaven; to teach and inure men to live in Love and Peace and Order here in a Church Militant, that ſo they might be fit for eternal Society in the Church Triumphant.</p>
+            <p>It ſeems to be one reaſon, (amongſt many others) why thoſe that are deſigned for the Service of the Church are uſually bred up in Colleges and Univer<g ref="char:EOLhyphen"/>ſities; namely, that Collegiate life accuſtoming them to Order and Obedience, diſpoſes them to be ſub<g ref="char:EOLhyphen"/>ject to the Government of the Church. And as a College is an Embleme of the Church, ſo is the Church below of that above; and the Education in the one makes men fit Candidates of the other. For it is not to be imagined that any mere Orna<g ref="char:EOLhyphen"/>ments of Knowledge and Eloquence, or any other Gift or Grace, how eximious ſoever, can qualifie a man for the celeſtial Manſions, and make him fit to live in eternal Love and Peace and Concord with holy Spirits, that could not be brought to be peace<g ref="char:EOLhyphen"/>able, humble and obedient, and ſubmit to the Cul<g ref="char:EOLhyphen"/>ture and Diſcipline of the Church. There were therefore (upon the whole matter) great Conſide<g ref="char:EOLhyphen"/>rations why our Saviour ſhould build a Church. And ſo much for the Firſt part of my Text.</p>
+            <p>
+               <pb n="18" facs="tcp:55651:13"/>
+PART II. I proceed now to the Second, the Foundation of this Fabrick, <hi>Upon this Rock will I build my Church.</hi>
+            </p>
+            <p>I am ſure it can be no new thing to Learned men, to note what triumphs they of the Church of <hi>Rome</hi> make upon this paſſage. <hi>Tu es Petrus</hi> is urged up<g ref="char:EOLhyphen"/>on all occaſions; as if not onely S. <hi>Peter,</hi> but the whole Succeſſion of Popes were hereby made in<g ref="char:EOLhyphen"/>fallible Oracles of Truth, and univerſal Paſtors over the whole Church of <hi>Chriſt.</hi>
+            </p>
+            <p>If we object that <hi>Petrus</hi> and <hi>Petra</hi> are two things, they will anſwer, that our Saviour ſpake in the <hi>Syriack</hi> tongue, and that there <hi>Cepha</hi> anſwers to both. But if we enquire why <hi>Rock</hi> muſt needs ſignifie <hi>Head of the Church,</hi> or why to be <hi>built upon</hi> as <hi>a Rock</hi> muſt ſignifie to <hi>govern;</hi> eſpecially if we inquire why S. <hi>Peter</hi> might not have a Priviledge conferred upon him, that ſuch a man as <hi>Hilde<g ref="char:EOLhyphen"/>brand, Boniface, Innocent,</hi> or ſome other either igno<g ref="char:EOLhyphen"/>rant, lewd or enormous Biſhops of <hi>Rome</hi> were not fit for: we ſhould receive but ſlender ſatisfaction from them.</p>
+            <p>However I will not inſiſt upon thoſe Subtilties, but deliver my ſelf plainly, for the unfolding this part of my Text, in theſe two Points.</p>
+            <p n="1">1. It is notoriouſly evident to any man that con<g ref="char:EOLhyphen"/>ſults the Scriptures impartially, that the whole num<g ref="char:EOLhyphen"/>ber
+<pb n="19" facs="tcp:55651:13"/>
+of Apoſtles have that ſaid of them which is tant<g ref="char:EOLhyphen"/>amount to this in the Text: I mean, the Church is ſaid to be built upon them as well as upon S. <hi>Peter.</hi> For example, <hi>Eph.</hi> 2. 20. the Church is ſaid to be <hi>built upon the foundation of the Apoſtles, Chriſt himſelf being the chief Corner-ſtone:</hi> that is, <hi>Chriſt Jeſus</hi> firſt ſet on foot the Doctrine of the Goſpel, and gave them, his Apoſtles, both commiſſion and abilities to preach it, and gather Diſciples, and form them into the Society of a Church; and they accordingly did ſo. Again, <hi>Rev.</hi> 12. 1. the Chriſtian Church is de<g ref="char:EOLhyphen"/>ſcribed by <hi>a Woman cloathed with the Sun, having the Moon under her feet, and upon her head a Crown of twelve Stars,</hi> i. e. ſhining and glorying in the Do<g ref="char:EOLhyphen"/>ctrine of the Twelve Apoſtles. But more plainly <hi>Rev.</hi> 21. 19. <hi>the New Jeruſalem,</hi> that is, the Chriſti<g ref="char:EOLhyphen"/>an Church, is ſaid to have <hi>twelve foundations,</hi> anſwer<g ref="char:EOLhyphen"/>able to the number of the Apoſtles.</p>
+            <p>To which purpoſe it is farther conſiderable, that the generality of the Fathers either make the <hi>Petra,</hi> or Foundation here in the Text, to be the Faith and Profeſſion of <hi>S. Peter,</hi> which was the Belief of all the reſt, (though, according to the uſual zeal and promptneſs of S. <hi>Peter,</hi> firſt uttered by him:) or elſe they conceive this dignity to have been con<g ref="char:EOLhyphen"/>ferred upon S. <hi>Peter</hi> in the name of all the reſt. Ac<g ref="char:EOLhyphen"/>cording to the former of theſe goe S. <note n="*" place="margin">S. <hi>Chryſ.</hi> in Matt. Hom. 55. <hi>Theophyl.</hi> in Ioc. <hi>Epiph.</hi> c. Cathar. <hi>Aug.</hi> trac. 10. in 1. Joannis.</note> 
+               <hi>Chryſoſtom, Theophylact, Epiphanius,</hi> S. <hi>Auſtin,</hi> and ſeveral others:
+<pb n="20" facs="tcp:55651:14"/>
+but <note n="†" place="margin">
+                  <hi>Orig.</hi> tr. 1. in Matt. <hi>Cypr.</hi> Ep. 27. <hi>Tert.</hi> de Pudic. c. 21.</note> 
+               <hi>Origen,</hi> S. <hi>Cyprian, Tertullian,</hi> and ſome others, the latter way.</p>
+            <p n="2">2. But we will not ſtick to grant that S. <hi>Peter</hi> had ſomething peculiar conferred upon him here by our Saviour, namely this, that he ſhould have the honour firſt to plant the Chriſtian Faith, and ſo lay the firſt foundations of Chriſtian Churches, both a<g ref="char:EOLhyphen"/>mongſt <hi>Jews</hi> and <hi>Gentiles.</hi> Which is not onely the very account which S. <hi>Ambroſe</hi> gives of the meaning <note place="margin">S. <hi>Ambroſ.</hi> serm. 47.</note> of this Text, but that which appears eventually true in the Hiſtory of the <hi>Acts.</hi> For accordingly, Chap. 2. by a Sermon of his on the day of Pentecoſt he con<g ref="char:EOLhyphen"/>verted 3000 Souls to the Faith of <hi>Chriſt,</hi> all which verſ. 41. were <hi>baptized,</hi> and formed into the order of a Church, and were the Firſt-fruits of the <hi>Jews.</hi> Again, Chap. 10. he is ſent to <hi>Cornelius,</hi> and converts and baptizes him and his Family; and ſo laid the foun<g ref="char:EOLhyphen"/>dation of the firſt Church of the Gentiles.</p>
+            <p>So that the meaning of this part of my Text is no more but this, that S. <hi>Peter,</hi> in reward of his for<g ref="char:EOLhyphen"/>wardneſs in confeſſing <hi>Chriſt Jeſus,</hi> ſhould have the honour to lay the firſt Foundation of his Church, as aforeſaid. And of the truth of this interpretation I perſwade my ſelf any indifferent perſon will be abundantly ſatisfied, that will take the pains to con<g ref="char:EOLhyphen"/>ſult the Learned <hi>Camero</hi> upon the place. <note place="margin">
+                  <hi>Camer.</hi> My<g ref="char:EOLhyphen"/>rothec.</note>
+            </p>
+            <p>PART III. I now haſten to the Third and laſt Part of my Text, namely, the Prediction of
+<pb n="21" facs="tcp:55651:14"/>
+our Saviour touching the event of this buſineſs, the Succeſs and Duration of this Structure, <hi>The Gates of Hell ſhall not prevail againſt it.</hi>
+            </p>
+            <p>And here we have great variety amongſt Inter<g ref="char:EOLhyphen"/>preters. Some, conſidering that Gates uſe to be the greateſt Strengths and moſt fortified places, think that by <hi>the Gates of Hell</hi> is meant the Force and Power of the Devil and infernal Spirits; and that conſequently the meaning of our Saviour is, that all the Perſecutions which the Devil and his Agents raiſe againſt the Church ſhall never be able to de<g ref="char:EOLhyphen"/>ſtroy or extinguiſh it. Others, remembring that of old time the Gates of Cities uſed to be the places of Counſel and Judicature, therefore think that by <hi>Gates of Hell</hi> is meant the Cunning, Craft and Policy of the Devil; and that the meaning of the Prediction is, that neither the Plots and Machinations of the De<g ref="char:EOLhyphen"/>vil and his Inſtruments ſhall take place againſt the Church, nor particularly thoſe Hereſies and wicked Opinions which he ſuggeſts and foments againſt it ſhall ever be able to corrupt and deprave it.</p>
+            <p>I do not quarrel with either of theſe interpretati<g ref="char:EOLhyphen"/>ons, but I obſerve they both proceed upon a miſtake of the notion of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which I will endeavour briefly to rectifie, and then all will be eaſie.</p>
+            <p>Now it hath been made plain by ſeveral Learned men, (particularly by the Learned D<hi rend="sup">r</hi>. <hi>Windet</hi> of late,) that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which we render <hi>Holl,</hi> doth not
+<pb n="22" facs="tcp:55651:15"/>
+ſignifie the place or the ſtate of Hell-torments, or the puniſhment of the damned, either in the ancient <hi>Greek</hi> Authors, or with <hi>Helleniſtical</hi> Writers, either the Septuagint, or the Writers of the New Teſta<g ref="char:EOLhyphen"/>ment. There is indeed one onely paſſage in the New Teſtament that looks towards ſuch a ſenſe, and that is <hi>Luke</hi> 16. 23. where, as we render it, the rich man is ſaid to be <hi>in Hell:</hi> but that is reconcileable enough with the reſt, if it be duly conſidered.</p>
+            <p>But the general ſignification of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> imports one<g ref="char:EOLhyphen"/>ly the ſtate of death, or of the dead, without rela<g ref="char:EOLhyphen"/>tion to reward or puniſhment, miſery or happineſs; which theſe inſtances (amongſt many that might with like eaſe be aſſigned) will make evident. <hi>Acts</hi> 2. 24. that paſſage of the Pſalmiſt is applied to our Saviour, <hi>It was not poſſible for him to be held by the bands of death;</hi> and verſ. 27. the phraſe is varied, and there it is ſaid, in the ſame ſenſe, <hi>Thou wilt not leave my ſoul in hell,</hi> that is, thou wilt not leave me under the power of death, or in the condition of ſeparate ſouls, but wilt raiſe me up again. And more plainly <hi>Rev.</hi> 20. 14. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Death and Hell are caſt into the lake which burneth with fire and brimſtone;</hi> that is, Mortality is deſtroyed, the ſtate of Corruption and Death are diſſolved, or, as the Apoſtle elſwhere ex<g ref="char:EOLhyphen"/>preſſes it, <hi>Mortality is ſwallowed up of Life.</hi>
+            </p>
+            <p>For the confirmation of both which interpretati<g ref="char:EOLhyphen"/>ons, I will add the Obſervation of <note n="*" place="margin">See Biſh. <hi>
+                     <g ref="char:V">Ʋ</g>ſher</hi> de Symbol. Biſhop <hi>Pearſon</hi> on the Creed, Artic. 5.</note> Learned men up<g ref="char:EOLhyphen"/>on
+<pb n="23" facs="tcp:55651:15"/>
+that Article of our Creed, where <hi>Chriſt</hi> is ſaid to have <hi>deſcended</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>into Hell.</hi> They note, that in very few of the ancient Creeds thoſe words [<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>] are to be found; and eſpecially that wherever they are to be found, there thoſe other words <hi>[dead and bu<g ref="char:EOLhyphen"/>ried]</hi> are left out, ſave onely in the <hi>Aquileian</hi> Creed, where indeed both the phraſes are uſed. Where<g ref="char:EOLhyphen"/>upon it follows, that in the ſenſe of Antiquity Death and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or to be in <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, (which we render <hi>Hell,)</hi> and to be in the ſtate of death, were tanta<g ref="char:EOLhyphen"/>mount expreſſions.</p>
+            <p>So then the meaning of our Saviour in my whole Text is this; <hi>I will, by the Miniſtry of my Apoſtles, and by thy eſpecial agency,</hi> (Peter) <hi>gather Diſciples to my Name and Doctrine, and I will have theſe formed into the orderly Society of a Church, united to Me their Head, and to each other as in a common Body, having Laws, Officers and Government peculiar: And this my Church ſhall continue in the World as long as the World it ſelf laſts, ſubject to no Fate, Mortality or Interciſion; nothing ſhall ever ſupplant or ſuperſede it.</hi>
+            </p>
+            <p>And thus I have, according to my promiſe, with all poſſible brevity explained the Doctrine of my Text. Let me now crave leave to preſs the Con<g ref="char:EOLhyphen"/>ſequences of this Doctrine (upon your Practice) ſuitably to the preſent occaſion, and I will conclude. I will confine my ſelf to theſe three Inferences.</p>
+            <p>Firſt, Since our Saviour took care to found a
+<pb n="24" facs="tcp:55651:16"/>
+Church, let us be of this Society, and value the Pri<g ref="char:EOLhyphen"/>viledge of being of <hi>Chriſt</hi>'s Church.</p>
+            <p>Secondly, Since there is ſuch a mighty Uſefulneſs of this Foundation and Society, let us eſpecially that are Officers thereof endeavour to uphold it, and do it all the Honour and Service we can.</p>
+            <p>Laſtly, Since our Saviour hath propheſied, that all <hi>the Gates of Hell ſhall not prevail againſt it,</hi> let us all, that love God's Church, bear up our ſelves againſt all Diſcouragements and Deſpondencies on the truth and infallibility of his Prediction.</p>
+            <p n="1">I. APPLIC. Touching the firſt; To be of the Chriſtian Church is to be of the moſt honourable Society in the whole world. It is to be of an Order whereof the Lord <hi>Chriſt</hi> is Founder and Protectour, and whereof all the holy Angels are admirers: to be incorporate into the Fellowſhip of Apoſtles, Pro<g ref="char:EOLhyphen"/>phets, Martyrs, and all holy men: to be of that my<g ref="char:EOLhyphen"/>ſtical Body of which the Son of God is Head: to be Citizens of the <hi>new Jeruſalem,</hi> Fellow-citizens with the Saints, and of the Houſhold of God.</p>
+            <p>Obſerve what glorious things the Apoſtle ſpeaks <hi>Hebr.</hi> 12. 22, 23, 24. <hi>Ye are come to mount Sion, to the City of the living God, to the heavenly Jeruſalem, to an in<g ref="char:EOLhyphen"/>numerable company of Angels, to the general Aſſembly and Church of the Firſt-born whoſe names are written in Hea<g ref="char:EOLhyphen"/>ven, to God the Judge of all, to Jeſus the Mediatour of the new Covenant, and to the ſpirits of juſt men made perfect.</hi>
+               <pb n="25" facs="tcp:55651:16"/>
+And all this means nothing elſe but, You <hi>Jews</hi> are tranſlated from <hi>Moſes</hi> to <hi>Chriſt,</hi> from your old Sy<g ref="char:EOLhyphen"/>nagogue to the Chriſtian Church.</p>
+            <p>God's Church is his Family, which he eſpecially takes care of and provides for. He that is of it, is under the <hi>Shechinah,</hi> the wing of the Divine Majeſty, and his ſpecial Providence.</p>
+            <p>His Church is his Vineyard, and he not only <hi>ſets a hedge about it,</hi> but <hi>builds a watch-tower in it.</hi> No Na<g ref="char:EOLhyphen"/>tion under heaven had ſuch ſignal inſtances of God's preſence and bleſſing as the people of the <hi>Jews,</hi> whilſt they continued to be his Church: but when they ceaſed to be a Church, they ceaſed to be a People, were the moſt abject and contemptible rabble upon earth.</p>
+            <p>Above all, to be of God's Church is to be under the means of Grace, the Dew of Heaven, the motions of the good Spirit, and the hopes of Glory. For to the Church hath he promiſed his preſence and aſſi<g ref="char:EOLhyphen"/>ſtance; there are diſpenſed the lively Oracles of God, there hath he provided a conſtant ſucceſſion of Diſpenſers of the bread of life, to fit it to all needs and all Capacities.</p>
+            <p>Is it a ſmall ſecurity to our minds, or ſatisfaction to our Conſciences, that we are not left to the de<g ref="char:EOLhyphen"/>ceits and whiſpers of a private ſpirit, to perſonal con<g ref="char:EOLhyphen"/>jectures or ſecret inſinuations, but have the publick Doctrine of the Church?</p>
+            <p>
+               <pb n="26" facs="tcp:55651:17"/>
+Is it not a great encouragement of our Prayers, when we are fortified againſt the juſt reflexions up<g ref="char:EOLhyphen"/>on our own meanneſs and demerits, by the concur<g ref="char:EOLhyphen"/>rent Prayers of all God's people, and mingle our de<g ref="char:EOLhyphen"/>votions with theirs, that ſo they may together come up a ſweet odour before God?</p>
+            <p>Is it a ſmall advantage to joyn in that holy Leaguer, and beſiege Heaven by conjoyned and ardent impor<g ref="char:EOLhyphen"/>tunities? <hi>Coïmus in coetum,</hi> (ſaith <hi>Tertullian) ut ad Deum quaſi manu factâ precationibus ambiamus orantes.</hi>
+            </p>
+            <p>Can it chuſe but be a great animation and incou<g ref="char:EOLhyphen"/>ragement to us, to have before our eyes all the great Examples in God's Church?</p>
+            <p>Is it not a mighty matter, to have our Faith ſtrengthened and enlivened, our Love inflamed, our Comforts raiſed by the holy Communion? Will not the flame of others kindle our Zeal and Affections? And ſhall it not put us into an ecſtaſie of Devotion, to ſee as it were <hi>Chriſt</hi> crucified before our eyes, opening his Arms to us, and pouring out his Blood for us?</p>
+            <p>
+               <hi>Socrates</hi> is ſaid to have given ſolemn thanks to God, (amongſt other things) that by his Providence he was a Philoſopher, and not a Barbarian: and ſhall the twi<g ref="char:EOLhyphen"/>light or dawnings of naturallight be more raviſhing than the bright beams of the Sun of righteouſneſs?</p>
+            <p>Shall <hi>Tully</hi> break out in a kind of ecſtaſie, <hi>O philo<g ref="char:EOLhyphen"/>ſophia, unus dies ex praeceptis tuis actus peccanti immortali<g ref="char:EOLhyphen"/>tati
+<pb n="27" facs="tcp:55651:17"/>
+eſt anteponendus?</hi> and ſhall not we much rather break out with the Pſalmiſt, <hi>A day in thy courts is better than a thouſand;</hi> and, <hi>I had rather be a door-keeper in the Houſe of God, than dwell in the tents of wickedneſs?</hi>
+            </p>
+            <p>The Chief Captain, <hi>Acts</hi> 22. 28. gloried that he was a free Citizen of <hi>Rome,</hi> and thought it worth the pur<g ref="char:EOLhyphen"/>chaſe of a great ſumme of money; <hi>But,</hi> ſaith S. <hi>Paul, I was free-born:</hi> and is it a ſmall thing to us, that we are born and brought up in the Church of God?</p>
+            <p>The <hi>Romans</hi> generally had ſuch an opinion of the Auguſtneſs of their City, that to be proſcribed or ba<g ref="char:EOLhyphen"/>niſhed was counted a capital puniſhment, and a civil death thought equal to a natural.</p>
+            <p>The <hi>Pythagoreans,</hi> when any one forſook their School, were wont to carry out a Coffin for him attended with a funeral pomp. And ſhall we eſteem thoſe alive that forſake the Church, the School of <hi>Chriſt?</hi>
+            </p>
+            <p>The Primitive Chriſtians had ſuch an eſteem of the dignity and Priviledge of the Church, that <hi>Coetu arceri,</hi> to be Excommunicate, was ſo dreadfull a doom, as that thoſe that pronounced the Sentence were wont to doe it with weeping and lamentation. <hi>Ye ought to have mourn<g ref="char:EOLhyphen"/>ed,</hi> ſaith the Apoſtle, 1 <hi>Cor.</hi> 5. 2. and, 2 <hi>Cor.</hi> 12. 21. <hi>I ſhall bewail many.</hi> And to be caſt out of the Church, and to be delivered up to Satan, were accounted equivalent. <hi>Nam judicatur magno cum pondere, ut apud certos de Dei con<g ref="char:EOLhyphen"/>ſpectu, ſummúmque futuri Judicii praejudicium eſt, ſi quis it à deliquerit, ut à communione or ationis &amp; omnis ſacri commer<g ref="char:EOLhyphen"/>cii
+<pb n="28" facs="tcp:55651:18"/>
+relegetur,</hi> ſaith <hi>Tertullian</hi> in his Apology for Chri<g ref="char:EOLhyphen"/>ſtianity.</p>
+            <p>And who is there that hath been converſant in Church-Antiquity, that hath not obſerved what repentance and tears, what ſolicitations and interceſſions, what humble proſtration of themſelves were uſed by thoſe that were fallen under the Cenſures of the Church, to obtain reſti<g ref="char:EOLhyphen"/>tution to Peace and Pardon? And who that remembers this would ever have thought there ſhould have come a time, when it ſhould be eſteemed a matter of glory, and a point of Saintſhip, to cut off one's ſelf voluntarily, and become a Separatiſt from the Church?</p>
+            <p>The Church of <hi>Chriſt</hi> is the ſame it was, and the bleſ<g ref="char:EOLhyphen"/>ſings and advantages of it are ſtill the ſame: let us en<g ref="char:EOLhyphen"/>deavour therefore to raiſe up its Glory, to recover the ancient Zeal, and to reſtore its Veneration. And let us all ſay with thoſe in the Pſalm, <hi>Come let us go up to the Houſe of the Lord: Our feet ſhall ſtand within thy Gates, O Jeruſalem.</hi>
+            </p>
+            <p n="2">II. APPLIC. And this leads me to my Second Ap<g ref="char:EOLhyphen"/>plication, and to addreſs my ſelf to the Clergy. You, my Reverend Brethren, are not only Members, but Offi<g ref="char:EOLhyphen"/>cers of this Society: give me leave (being in this place) to recommend to you very earneſtly the doing all the honour and ſervice you can to the Church of <hi>Chriſt.</hi> Put the caſe we have but ſlender Encouragements, and live in an ungratefull Age, that men will miſinterpret our Zeal, blaze our Infirmities, reſiſt our Endeavours, and oppoſe their own good: yet we are in an honourable
+<pb n="29" facs="tcp:55651:18"/>
+Employment, we ſerve a good Maſter, and ſhall not loſe our reward. Therefore let me take the confidence to preſs upon you the following particulars.</p>
+            <p>Firſt, Let us be ſure, for the ſake of the Church, to pay ſuch Reverence to our Superiours in it, as may render them Venerable in the eyes of all others. For aſſure our ſelves, that if we ſlight their Perſons, and diſpute their Injunctions, we teach other men to deſpiſe them and our ſelves too, and tuine the whole.</p>
+            <p>It is a memorable paſſage of our Saviour, <hi>Matt.</hi> 3. 13, <hi>&amp;c.</hi> He comes to <hi>John</hi> the Baptiſt to be baptized of him: <hi>John</hi> forbids him, ſaying, <hi>I have need to be baptized of thee,</hi> &amp;c. And it is certain our Saviour had no need of Baptiſm, having no ſtain of Sin upon him: notwith<g ref="char:EOLhyphen"/>ſtanding ſaith our Saviour, <hi>Suffer it to be ſo now, for it becometh us to fulfill all righteouſneſs;</hi> that is, ſaith <hi>Hugo Grotius,</hi> it became the Son of God and Saviour of the World, to give publick honour and veneration to the Miniſtry of <hi>John</hi> the Baptiſt. And moſt certainly, what became our Saviour towards him, who (as he acknow<g ref="char:EOLhyphen"/>ledges) <hi>was not worthy to unlooſe his ſhoe-latchet,</hi> muſt needs become us towards thoſe that God and man have made our Superiours.</p>
+            <p>In the next place let us take care to ſubmit our pri<g ref="char:EOLhyphen"/>vate Sentiments to the Judgment of the Church, and not oppoſe our private Opinions to the publick Doctrine. It was a memorable diſcourſe of S. <hi>Paul</hi> to the <hi>Corinthians,</hi> Ep. 1. Chap. 11. When he had been delivering his judgment about Long hair, and ſuch other matters of
+<pb n="30" facs="tcp:55651:19"/>
+decency, to the reaſons he gives of his judgment in thoſe affairs he ſubjoyns theſe words, verſ. 16. <hi>But if any man ſeem to be contentious, we have no ſuch Cuſtom, neither the Churches of God.</hi> As if he had ſaid, If the reaſons I give prevail not with you, yet the Practice of the Church is with me, and the Cuſtom of the Church ought to be ſufficient to rule ſuch a Caſe.</p>
+            <p>Thirdly, Let us remember it is Church-work we are imployed about, and that work is to be done in peace: we muſt therefore gain upon men by love and gentle<g ref="char:EOLhyphen"/>neſs, oblige them by condeſcenſion and goodneſs, not exaſperate and drive them from the Church by paſſion and frowardneſs. Eſpecially we muſt be ſure, that we repreſent not the terms of our Communion narrower than needs muſt, leſt we depopulate by ſuch Incloſures, and make the Church become a Conventicle: but con<g ref="char:EOLhyphen"/>ſider well the importance of thoſe words of our Savi<g ref="char:EOLhyphen"/>our, <hi>He that is not againſt us is with us.</hi>
+            </p>
+            <p>It is recorded by ſeveral Hiſtorians, that when the <hi>Perſians</hi> had waſted <hi>Greece,</hi> and amongſt other inſtances of Barbarity had alſo burnt down the Temples of their Gods; the <hi>Greeks,</hi> when they emerged from the Cala<g ref="char:EOLhyphen"/>mity, and recovered their own Territories, would never after re-build the ruines of thoſe Temples, but left them as they were, that they might be Monuments of the <hi>Perſians</hi> Barbariſm, and keep up in the <hi>Greeks</hi> an ever<g ref="char:EOLhyphen"/>laſting <hi>odium</hi> and deteſtation of them.</p>
+            <p>But <hi>Pauſanias,</hi> on the other ſide, obſerves it to have been the wiſdom of the <hi>Macedonians,</hi> that in <note place="margin">
+                  <hi>Pauſan.</hi> in <hi>Boeot.</hi>
+               </note>
+               <pb n="31" facs="tcp:55651:19"/>
+none of their Conqueſts they ever erected any Trophies, leſt whileſt they perpetuated the memory of their Vi<g ref="char:EOLhyphen"/>ctories, they perpetuated alſo the Quarrel, and provo<g ref="char:EOLhyphen"/>ked their Enemies to an immortal ſhame and hatred, and to watch an advantage by ſome fatal revenge to blot out their own infamy.</p>
+            <p>I need not in this Auditory make any Application of theſe two Stories: yet becauſe I would be underſtood by all, I expreſs my meaning thus. We of this Church have ſeveral ſorts of Enemies. There are ſome we can never have peace with, nor ſecurity from; we muſt cheat our ſelves, if we think of any ſyncretiſm or coa<g ref="char:EOLhyphen"/>leſcency with them: with ſuch therefore the terms of di<g ref="char:EOLhyphen"/>ſtinction muſt be maintained, we muſt ſtand upon our guard, and quit our ſelves like men; there can be no ac<g ref="char:EOLhyphen"/>commodation, nor peace, nor truce, but what is fallaci<g ref="char:EOLhyphen"/>ous. But there are others of whom there is hope that they may be gained: and all that I ſay is this, in ſuch a caſe let us rather endeavour to make them good, than ex<g ref="char:EOLhyphen"/>aſperate them by remembring that they have been evil, or reproaching them for what they have done amiſs.</p>
+            <p>But above all let us not forget to honour and adorn the Church by true Piety and Vertue. A very bad Opi<g ref="char:EOLhyphen"/>nion recommends it ſelf with great advantage, if the promoters of it ſeem pious and devout: but Profaneneſs and Immorality, if it will not confute, yet will ſhame and baffle the beſt Profeſſion in the world. Therefore, my Brethren, let not us onely have our <hi>Loins girt,</hi> but our <hi>Lamps burning:</hi> That if any ſhall have the folly to
+<pb n="32" facs="tcp:55651:20"/>
+reproach our way as a cold formal Devotion, we may effectually convince and ſhame them by the Holineſs of our Lives, the Heavenlineſs of our Minds, by a great and quick ſenſe of God, and a remarkable Devotion. That it may be ſaid of us as of the Miniſters of Reli<g ref="char:EOLhyphen"/>gion in <hi>Origen</hi>'s time, <hi>Hi ſunt qui vivunt ut loquuntur, &amp; loquuntur ut vivunt.</hi>
+            </p>
+            <p>S. <hi>Hierome</hi> obſerves of the <hi>Platoniſts</hi> and <hi>Stoicks,</hi> that they were wont to hold their Conferences and Diſputes commonly in the Porches of the Temples: of which he imagines this to have been the reaſon, <hi>Ut admoniti auguſtioris habitaculi ſanctitate, nil aliud niſi de virtute cogita<g ref="char:EOLhyphen"/>rent.</hi> Let the Sanctity of God's Houſe, wherein we dai<g ref="char:EOLhyphen"/>ly miniſter, and the Majeſty of the living God we ſerve, awaken and keep alive in us a conſtant Gravity, and quick ſenſe of Piety. And then the moſt Sceptical men will be aſhamed to blaſpheme Religion, and call it a meer Juggle of the Prieſts, when they ſee us live under the Power of it. And then ſhall the Divine Glory deſcend upon us and our Church, as it was wont to do upon the Ark of God.</p>
+            <p n="3">III. APPLIC. But to come to a Concluſion: Let us encourage our ſelves touching the eſtate and proſpe<g ref="char:EOLhyphen"/>rity of the Church by the Prediction of our Saviour, that <hi>all the Gates of Hell ſhall not prevail againſt it.</hi> Let us not be diſquieted with rumours of the ſtrength and number of its Enemies. Though <hi>Ammon</hi> and <hi>Amalek,</hi> the <hi>Philiſtines</hi> and Inhabitants of <hi>Tyre,</hi> I mean, though Atheiſt, Sceptick, Papiſt, Fanatick, all combine a<g ref="char:EOLhyphen"/>gainſt
+<pb n="33" facs="tcp:55651:20"/>
+it, the Prediction of our Saviour ſhall ſtand.</p>
+            <p>
+               <hi>Joſephus</hi> reports of the <hi>Jewiſh</hi> Prieſts, that when <hi>Pom<g ref="char:EOLhyphen"/>pey</hi>'s Army ruſhed rudely into the Temple of <hi>Jeruſalem,</hi> when the Prieſts were buſie about the Sacrifice, and fill<g ref="char:EOLhyphen"/>ed all with amazement and conſternation, the Prieſts went on with their buſineſs, neither laid aſide the Sacri<g ref="char:EOLhyphen"/>fice, nor performed any part of it tumultuarily or timo<g ref="char:EOLhyphen"/>rouſly. They, it ſeems, conſidered they were doing their duty, and imployed in God's work, and therefore did not doubt but he would defend them and bear them out. So let us do our work undauntedly and couragiouſly, that neither the Scoffs of Atheiſts abaſh us, nor the rude Fol<g ref="char:EOLhyphen"/>lies of Ignorant perſons move us, nor the Conſpiracy of all together tempt us to ſuch meanneſs of ſpirit, or weak<g ref="char:EOLhyphen"/>neſs of Faith and Courage, as to grow deſpondent, and ſay with <hi>David</hi> at a low ebb of mind, We <hi>ſhall one day fall by the hand of Saul:</hi> but rather imitate that <note place="margin">1 Sam. 27. 1.</note> bravery of his with which he diſmay'd and conquered <hi>Goliah; The Lord delivered me from the mouth of the Lion, and from the paw of the Bear, and ſhall deliver me from this uncir<g ref="char:EOLhyphen"/>cumciſed Philiſtine.</hi> To which purpoſe let us call to mind the miraculous Providence by which this Church was reared in King <hi>Edward</hi> the Sixth and Queen <hi>Elizabeth</hi>'s days; and withall conſider by what admirable Provi<g ref="char:EOLhyphen"/>dences it was reſtored and revived in our days: and then ſurely we ſhall conclude it a fabrick of God's building, and which he will ever protect.</p>
+            <p>But if any ſhall be ſo diffident as to ſay, It may be true of the whole Church, that <hi>the Gates of Hell ſhall not pre<g ref="char:EOLhyphen"/>vail
+<pb n="34" facs="tcp:55651:21"/>
+againſt</hi> that, but this part of it, or this particular Church may periſh: for anſwer, I appeal to whoſoever impartially reads the Scriptures, and hath peruſed Eccle<g ref="char:EOLhyphen"/>ſiaſtical Hiſtory, to ſay, if he can, whether any Church in the whole world is more truly Evangelical than this, or comes nearer, either for Doctrine or Government, to thoſe founded by the Apoſtles themſelves. And if this be ſo, why ſhould we doubt of the continuance of the Divine Providence over it?</p>
+            <p>To which I adde, for a Concluſion of all; Look over the Hiſtory of all Times and Countreys, of all States and Kingdoms, and conſider if ever any orderly and conſiderable Society in the world was diſſolved other<g ref="char:EOLhyphen"/>wiſe, than by being broken and divided in it ſelf. And let the conſideration hereof oblige us to the trueſt Love and firmeſt Union amongſt our ſelves. Our Saviour hath told us, that <hi>a Kingdom divided againſt it ſelf cannot ſtand;</hi> and the very Kingdom of Satan requires Order, and ſubſiſts by Unity. Let it not be true in every in<g ref="char:EOLhyphen"/>ſtance, eſpecially in this fatal one, that <hi>the children of this world</hi> (much leſs the ſubjects of the Kingdom of Dark<g ref="char:EOLhyphen"/>neſs) <hi>are wiſer than the children of light.</hi> But let us (as I have ſaid) ſincerely practiſe our Religion, courageouſly own our Profeſſion, and <hi>maintain the Unity of the Spirit in the bond of Peace</hi> and Love amongſt our ſelves: And then <hi>all the Gates of Hell ſhall not prevail againſt</hi> us. Which God of his mercy grant through <hi>Jeſus Chriſt</hi> our Lord: To whom, <hi>&amp;c.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:55651:21"/>
+         </div>
+      </body>
+   </text>
+</TEI>
